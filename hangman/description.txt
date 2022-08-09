@@ -1,0 +1,7 @@
+This project hangman is created by  concept squads. This group consist of 4 member:
+1.	Kenij Shrestha		(078bch021.kenij@pcampus.edu.np)
+2.	Nisha Singh Thakuri	(078bch029.nisha@pcampus.edu.np)
+3.	Sapana Sah			(078bch039.sapana@pcampus.edu.np)
+4.	Samikshya Dhakal		(078bch037.samikshya@pcampus.edu.np)
+
+Here's the github link for our project https://github.com/kenijshrestha/hangman
